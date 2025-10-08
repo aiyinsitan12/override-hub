@@ -1,3 +1,4 @@
+url-test='https://dns.google/dns-query'
 proxy-groups:
   - name: 节点选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
