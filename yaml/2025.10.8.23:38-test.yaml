@@ -18,7 +18,8 @@ proxy-groups:
     type: select
   - name: 自动选择
     icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Auto.png
-    type: url-test='https://dns.google/dns-query'
+    type: url-test
+    url: https://dns.google/dns-query
     include-all: true
     interval: 300
     tolerance: 50
